@@ -1,0 +1,8 @@
+jsp: 서버사이드에서 뷰 정리(옛날 방식)
+mvc: 자바프로그램 + 뷰 라이브러리(ex:thymeleaf)  -> 브라우져에 전송
+resources는 외부로 나가는 html파일 폴더
+Thymeleaf : 동적 html파일 관리하는 라이브러리
+templates: 동적 뷰 폴더
+static: 정적 html파일 폴더
+controller: 리퀘스트 매핑(매핑이 안되면 리소스에서 찾음)
+mvc: model(매개체) + view(수신) + control(발신)
